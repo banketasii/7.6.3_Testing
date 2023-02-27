@@ -5,7 +5,7 @@ document.querySelector("#deleteRuleBtn").addEventListener("click", deleteRule);
 function insertRule() {    
    // Insert paragraph rule
    let stylesheet = document.styleSheets[0];
-   stylesheet.insertRule("p { color: yellow; }");
+   stylesheet.insertRule("p { color: orange; }");
    
    // Insert .price rule
    stylesheet.insertRule(".price { font-weight: bold; }");
