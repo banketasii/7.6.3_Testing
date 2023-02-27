@@ -1,0 +1,12 @@
+body  {
+   color: darkgreen;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+#menu {
+   background-color: moccasin;
+   width: 200px;        
+   text-align: center;
+   padding: 10px;
+   border-radius: 20px;
+}
